@@ -1,0 +1,81 @@
+callback([{
+	"key": "ccdcalitest10.in2p3.fr",
+	"latitude": 44.5146,
+	"longitude": -0.5712,
+	"name": "ccdcalitest10.in2p3.fr"
+}, {
+	"key": "dcache-door-doma01.desy.de",
+	"latitude": 51.2993,
+	"longitude": 9.491,
+	"name": "dcache-door-doma01.desy.de"
+}, {
+	"key": "dcache-se-doma.desy.de",
+	"latitude": 51.2993,
+	"longitude": 9.491,
+	"name": "dcache-se-doma.desy.de"
+}, {
+	"key": "dclxwp2dlds1.gsi.de",
+	"latitude": 49.9111,
+	"longitude": 8.6573,
+	"name": "dclxwp2dlds1.gsi.de"
+}, {
+	"key": "door05.pic.es",
+	"latitude": 40.4172,
+	"longitude": -3.684,
+	"name": "door05.pic.es"
+}, {
+	"key": "eoseulake.cern.ch",
+	"latitude": 46.2054,
+	"longitude": 6.1459,
+	"name": "eoseulake.cern.ch"
+}, {
+	"key": "eulakeftp.cern.ch",
+	"latitude": 46.2054,
+	"longitude": 6.1459,
+	"name": "eulakeftp.cern.ch"
+}, {
+	"key": "gridftp.grid.sara.nl",
+	"latitude": 52.3740,
+	"longitude": 4.8897,
+	"name": "gridftp.grid.sara.nl"
+}, {
+	"key": "lapp-dcache01.in2p3.fr",
+	"latitude": 48.8582,
+	"longitude": 2.3387,
+	"name": "lapp-dcache01.in2p3.fr"
+}, {
+	"key": "lapp-esc02.in2p3.fr",
+	"latitude": 44.5146,
+	"longitude": -0.5712,
+	"name": "lapp-esc02.in2p3.fr"
+}, {
+	"key": "lapp-testse01.in2p3.fr",
+	"latitude": 45.7660,
+	"longitude": 4.8795,
+	"name": "lapp-testse01.in2p3.fr"
+}, {
+	"key": "lobster10.grid.surfsara.nl",
+	"latitude": 52.3740,
+	"longitude": 4.8897,
+	"name": "lobster10.grid.surfsara.nl"
+}, {
+	"key": "t2-dpm-dome.na.infn.it",
+	"latitude": 45.4643,
+	"longitude": 9.1895,
+	"name": "t2-dpm-dome.na.infn.it"
+}, {
+	"key": "webdav.grid.sara.nl",
+	"latitude": 52.3740,
+	"longitude": 4.8897,
+	"name": "webdav.grid.sara.nl"
+}, {
+	"key": "xfer.cr.cnaf.infn.it",
+	"latitude": 44.4623,
+	"longitude": 11.3431,
+	"name": "xfer.cr.cnaf.infn.it"
+}, {
+	"key": "xrootd.pic.es",
+	"latitude": 41.5026,
+	"longitude": 2.0875,
+	"name": "xrootd.pic.es"
+}]);
