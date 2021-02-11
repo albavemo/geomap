@@ -1,0 +1,21 @@
+[{
+	"key": "ccdcalitest10.in2p3.fr",
+	"latitude": 44.5146,
+	"longitude": -0.5712,
+	"name": "ccdcalitest10.in2p3.fr"
+}, {
+	"key": "dcache-door-doma01.desy.de",
+	"latitude": 51.2993,
+	"longitude": 9.491,
+	"name": "dcache-door-doma01.desy.de"
+}, {
+	"key": "dcache-se-doma.desy.de",
+	"latitude": 51.2993,
+	"longitude": 9.491,
+	"name": "dcache-se-doma.desy.de"
+}, {
+	"key": "dclxwp2dlds1.gsi.de",
+	"latitude": 49.9111,
+	"longitude": 8.6573,
+	"name": "dclxwp2dlds1.gsi.de"
+}]
