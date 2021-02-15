@@ -1,0 +1,21 @@
+[{
+	"key": "eulakeftp.cern.ch",
+	"latitude": 46.2054,
+	"longitude": 6.1459,
+	"name": "eulakeftp.cern.ch"
+}, {
+	"key": "gridftp.grid.sara.nl",
+	"latitude": 52.3740,
+	"longitude": 4.8897,
+	"name": "gridftp.grid.sara.nl"
+}, {
+	"key": "lapp-dcache01.in2p3.fr",
+	"latitude": 48.8582,
+	"longitude": 2.3387,
+	"name": "lapp-dcache01.in2p3.fr"
+}, {
+	"key": "lapp-esc02.in2p3.fr",
+	"latitude": 44.5146,
+	"longitude": -0.5712,
+	"name": "lapp-esc02.in2p3.fr"
+}]
