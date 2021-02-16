@@ -1,15 +1,24 @@
 [{
-	"key": "IN2P3-CC-DCACHE",
 	"latitude": 44.5146,
 	"longitude": -0.5712,
 	"name": "IN2P3-CC-DCACHE"
 }, {
-	"key": "DESY-DCACHE",
 	"latitude": 51.2993,
 	"longitude": 9.491,
 	"name": "DESY-DCACHE"
 }, {
-	"key": "EULAKE-1",
+	"latitude": 49.9111,
+	"longitude": 8.6573,
+	"name": "FAIR-ROOT"
+}, {
+	"latitude": 49.9111,
+	"longitude": 8.6573,
+	"name": "GSI-ROOT"
+}, {
+	"latitude": 40.4172,
+	"longitude": -3.684,
+	"name": "PIC-DCACHE"
+}, {
 	"latitude": 46.2054,
 	"longitude": 6.1459,
 	"name": "EULAKE-1"
