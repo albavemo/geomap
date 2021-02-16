@@ -1,53 +1,66 @@
 [{
 	"key": "IN2P3-CC-DCACHE",
 	"latitude": 44.5146,
-	"longitude": -0.5712
+	"longitude": -0.5712,
+	"name": "IN2P3-CC-DCACHE"
 }, {
 	"key": "DESY-DCACHE",
 	"latitude": 51.2993,
-	"longitude": 9.491
+	"longitude": 9.491,
+	"name": "DESY-DCACHE"
 }, {
 	"key": "FAIR-ROOT",
 	"latitude": 49.9111,
-	"longitude": 8.6573
+	"longitude": 8.6573,
+	"name": "FAIR-ROOT"
 }, {
 	"key": "GSI-ROOT",
 	"latitude": 49.9111,
-	"longitude": 8.6573
+	"longitude": 8.6573,
+	"name": "GSI-ROOT"
 }, {
 	"key": "PIC-DCACHE",
 	"latitude": 40.4172,
-	"longitude": -3.684
+	"longitude": -3.684,
+	"name": "PIC-DCACHE"
 }, {
 	"key": "EULAKE-1",
 	"latitude": 46.2054,
-	"longitude": 6.1459
+	"longitude": 6.1459,
+	"name": "EULAKE-1"
 }, {
 	"key": "SARA-DCACHE",
 	"latitude": 52.3740,
-	"longitude": 4.8897
+	"longitude": 4.8897,
+	"name": "SARA-DCACHE"
 }, {
 	"key": "LAPP-DCACHE",
 	"latitude": 48.8582,
-	"longitude": 2.3387
+	"longitude": 2.3387,
+	"name": "LAPP-DCACHE"
 }, {
 	"key": "LAPP-WEBDAV",
 	"latitude": 44.5146,
-	"longitude": -0.5712
+	"longitude": -0.5712,
+	"name": "LAPP-WEBDAV"
 }, {
 	"key": "ALPAMED-DPM",
 	"latitude": 45.7660,
-	"longitude": 4.8795
-}, {
+	"longitude": 4.8795,
+	"name": "ALPAMED-DPM"
+},  {
 	"key": "INFN-NA-DPM",
 	"latitude": 45.4643,
-	"longitude": 9.1895
+	"longitude": 9.1895,
+	"name": "INFN-NA-DPM"
 }, {
 	"key": "INFN-NA-DPM-FED",
 	"latitude": 45.4643,
-	"longitude": 9.1895
+	"longitude": 9.1895,
+	"name": "INFN-NA-DPM-FED"
 }, {
 	"key": "CNAF-STORM",
 	"latitude": 44.4623,
-	"longitude": 11.3431
+	"longitude": 11.3431,
+	"name": "CNAF-STORM"
 }]
