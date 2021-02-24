@@ -20,7 +20,7 @@
 	"name": "GSI-ROOT"
 }, {
 	"key": "PIC-DCACHE",
-	"latitude": 41.5879,
+	"latitude": 41.4879,
 	"longitude": 2.16992,
 	"name": "PIC-DCACHE"
 }, {
@@ -50,7 +50,7 @@
 	"name": "LAPP-WEBDAV"
 }, {
 	"key": "ALPAMED-DPM",
-	"latitude": 46.0211,
+	"latitude": 45.8211,
 	"longitude": 6.2598,
 	"name": "ALPAMED-DPM"
 },  {
