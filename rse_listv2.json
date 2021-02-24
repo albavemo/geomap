@@ -68,4 +68,9 @@
 	"latitude": 44.4623,
 	"longitude": 11.3431,
 	"name": "CNAF-STORM"
+}, {
+	"key": "INFN-ROMA1",
+	"latitude": 41.9027,
+	"longitude": 12.4963,
+	"name": "INFN-ROMA1"
 }]
