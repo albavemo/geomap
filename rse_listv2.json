@@ -24,6 +24,11 @@
 	"longitude": 2.16992,
 	"name": "PIC-DCACHE"
 }, {
+	"key": "PIC-INJECT",
+	"latitude": 41.3879,
+	"longitude": 2.16992,
+	"name": "PIC-INJECT"
+}, {
 	"key": "EULAKE-1",
 	"latitude": 46.2054,
 	"longitude": 6.1459,
@@ -35,28 +40,28 @@
 	"name": "SARA-DCACHE"
 }, {
 	"key": "LAPP-DCACHE",
-	"latitude": 48.8582,
-	"longitude": 2.3387,
+	"latitude": 45.9211,
+	"longitude": 6.1598,
 	"name": "LAPP-DCACHE"
 }, {
 	"key": "LAPP-WEBDAV",
-	"latitude": 44.5146,
-	"longitude": -0.5712,
+	"latitude": 45.9211,
+	"longitude": 6.1598,
 	"name": "LAPP-WEBDAV"
 }, {
 	"key": "ALPAMED-DPM",
-	"latitude": 45.7660,
-	"longitude": 4.8795,
+	"latitude": 45.9211,
+	"longitude": 6.1598,
 	"name": "ALPAMED-DPM"
 },  {
 	"key": "INFN-NA-DPM",
-	"latitude": 40.8401,
-	"longitude": 14.2516,
+	"latitude": 40.8381,
+	"longitude": 14.1828,
 	"name": "INFN-NA-DPM"
 }, {
 	"key": "INFN-NA-DPM-FED",
-	"latitude": 40.8401,
-	"longitude": 14.2516,
+	"latitude": 40.8381,
+	"longitude": 14.1828,
 	"name": "INFN-NA-DPM-FED"
 }, {
 	"key": "CNAF-STORM",
