@@ -40,8 +40,8 @@
 	"name": "SARA-DCACHE"
 }, {
 	"key": "LAPP-DCACHE",
-	"latitude": 45.9211,
-	"longitude": 6.1598,
+	"latitude": 45.8211,
+	"longitude": 6.0598,
 	"name": "LAPP-DCACHE"
 }, {
 	"key": "LAPP-WEBDAV",
@@ -50,8 +50,8 @@
 	"name": "LAPP-WEBDAV"
 }, {
 	"key": "ALPAMED-DPM",
-	"latitude": 45.9211,
-	"longitude": 6.1598,
+	"latitude": 46.0211,
+	"longitude": 6.2598,
 	"name": "ALPAMED-DPM"
 },  {
 	"key": "INFN-NA-DPM",
